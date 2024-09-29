@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('Arctic-Monkeys.png'); /* Ruta a tu imagen */
+    background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    color: aqua; /* Cambia el color del texto si es necesario */
+    
+}
+
+h1 {
+    color: rgb(0, 172, 252);
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+h4 {
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+#plot {
+    margin: 20px;
+}
+
+#myPlot {
+    width: 600px;
+    margin: 0 auto;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+}
